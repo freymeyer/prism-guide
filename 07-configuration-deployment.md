@@ -534,7 +534,7 @@ All commands are run via: `docker-compose exec web python manage.py <command>`
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/freymeyer/PRISM-Matutum
 cd PRISM-Matutum
 
 # 2. Start all services
